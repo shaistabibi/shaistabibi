@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shaistabibi
+- 👀 I’m interested in data science ,data mining and data analyst.
+- 🌱 I’m currently learning data science skills.
+- 💞️ I’m looking to collaborate on linkedin.
+- 📫 How to reach me on email.
